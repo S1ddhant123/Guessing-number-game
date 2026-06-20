@@ -7,7 +7,7 @@ while True:
     ch = 7
     guess = 0
     history = []
-    print(gs)
+    #print(gs)  # Cheat code just remove "#" before print.
     while guess < ch:
         try:
             call = int(input("Enter your guess: "))
