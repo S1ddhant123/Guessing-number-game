@@ -17,5 +17,6 @@ A simple Python number guessing game.
 
 ## How to Run
 
-1. Clone the repository ~bash
+1. Clone the repository ~
+```bash
 git clone https://github.com/S1ddhant123/Guessing-number-game.git
