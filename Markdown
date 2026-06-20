@@ -1,0 +1,15 @@
+# Guessing Number Game
+
+A simple Python number guessing game.
+
+## Features
+- Random number between 1 and 100
+- 7 chances to guess
+- Tracks previous guesses
+- Gives hints if the guess is too high or too low
+
+## How to Run
+
+1. Clone the repository
+```bash
+git clone https://github.com/S1ddhant123/Guessing-number-game.git
